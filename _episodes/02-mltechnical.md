@@ -9,7 +9,7 @@ objectives:
 - "Discuss the role of gradient descent when optimizing a model."
 keypoints:
 
-- "In a particular machine learning problem, one needs an adequate data set, a reasonable model, and a corresponding loss function. The choice of model and arbitrary needs to depend on the data set."
+- "In a particular machine learning problem, one needs an adequate data set, a reasonable model, and a corresponding loss function. The choice of model and loss function needs to depend on the data set."
 - "Gradient descent is a procedure used to optimize a loss function corresponding to a specific model and data set."
 - "Beware of overfitting!"
 ---
